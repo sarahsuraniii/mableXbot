@@ -44,8 +44,8 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/whooputt'
-global.sgh = 'https://github.com/Putbotz'
+global.sig = 'https://instagram.com/sw33ttieluna'
+global.sgh = 'https://github.com/sarahsuraniii'
 global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
@@ -59,17 +59,17 @@ global.ppulsa2 = '60147366955 maxis'
 global.psaweria = 'gaada'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '601121071453'
-global.nomorown = '60147366955'
-global.namebot = 'Sasyi'
-global.nameown = 'Sasyi By Putbotz'
+global.nomorbot = '60182720133'
+global.nomorown = '60177301683'
+global.namebot = 'MABLEBOT'
+global.nameown = 'MABLE'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['60147366955'],
-  ['601169466091'],
-  ['60147366955', 'Sasyi by Putbotz ! 🦖', true]
+  ['60177301693'],
+  ['60182720133'],
+  ['60182720133', 'Mable ror ! 🦖', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -116,12 +116,12 @@ global.APIKeys = { // APIKey Here
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
 global.wm = '© Sasyi' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Sasyi🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺Sasyi By Putbotz'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MABLE🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺MABLE ROR'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Sasyi🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.author = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Sasyi🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.titlebot = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MABLE🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.author = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘MABLE🦖˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
 
 /*============== LOGO ==============*/
@@ -175,7 +175,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'yahaha wahyu'
-global.stickauth = `putganteng yagesya☂`
+global.stickauth = 'MABLE ROR'
 
 global.multiplier = 999 // The higher, The harder levelup
 
